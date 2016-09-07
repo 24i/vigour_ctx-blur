@@ -1,6 +1,6 @@
 {
   "name": "ctx-blur",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Applies a blur filter to a canvas",
   "main": "lib/index.js",
   "scripts": {
